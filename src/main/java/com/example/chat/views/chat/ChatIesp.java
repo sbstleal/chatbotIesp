@@ -107,7 +107,7 @@ public class ChatIesp extends Chat {
         menu += " 2 - Verifique seu Desempenho Acadêmico";
         menu += " 3 - Como faço para solicitar dispensa das disciplinas?";
         menu += " 4 - Qual o seu Horário e Calendário Estudantil?";
-        menu += " 5 - Qual horário que consigo fala com a coordenação?";
+        menu += " 5 - Qual horário consigo falar com a coordenação?";
         menu += " 6 - Como acessar a nossa Plataforma de Estudo? ";
         menu += " 7 - Sou aluno do primeiro período, posso tentar uma vaga de estágio? ";
         menu += " 8 - Como faço pra matricula nas disciplinas para o próximo período? ";
@@ -116,9 +116,9 @@ public class ChatIesp extends Chat {
                 "de Informação? ";
         menu += " 11 - Quais as formas de ingresso no curso? ";
         menu += " 12 - Qual a quantidade máxima de faltas e como abonar essas faltas caso necessite? ";
-        menu += " 13 -  Quantos períodos tem os cursos de Tecnologia da Informação? ";
-        menu += " 14 -  Como realizo a baixa das minhas horas complementares? ";
-        menu += " 15 -  Estou me transferido para UNIESP, quais disciplinas vou cursar? ";
+        menu += " 13 - Quantos períodos tem os cursos de Tecnologia da Informação? ";
+        menu += " 14 - Como realizo a baixa das minhas horas complementares? ";
+        menu += " 15 - Estou me transferido para UNIESP, quais disciplinas vou cursar? ";
 
         return menu;
     }
